@@ -2,3 +2,5 @@
 Learning data analytics in 30 days.
 Tools: Excel, SQL, Python, Tableau
 Started: 30th March 2026
+
+I started with Google Sheets, learned Pivot tables and Chart in it
