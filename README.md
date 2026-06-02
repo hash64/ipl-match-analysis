@@ -1,6 +1,22 @@
-# My Data Analytics Journey
-Learning data analytics in 30 days.
-Tools: Excel, SQL, Python, Tableau
-Started: 30th March 2026
+# IPL Match Analysis (Beginner Project)
 
-I started with Google Sheets, learned Pivot tables and Chart in it
+## Overview
+This project is a beginner-friendly analysis of IPL match data using Google Sheets.  
+The goal is to practice core data analytics steps: understanding the data, summarizing it, and turning the results into clear insights.
+
+## Questions Answered
+1. Which team has the most match wins?
+2. Which season had the most matches?
+3. Which player won the most Player of the Match awards?
+
+## Key Insights
+- Mumbai Indians have the highest number of match wins across all seasons in this dataset, followed by Chennai Super Kings and Kolkata Knight Riders.
+- In this dataset, the 2013 IPL season has the highest number of matches, with a total of 76 games played.
+- In this dataset, AB de Villiers has won the most 'Player of the Match' awards, with a total of 25 awards.
+
+## Data and Tools
+- Data: IPL match-level data (CSV)
+- Tool: Google Sheets (pivot tables and charts)
+
+## Limitations
+- Some venue names are inconsistent (slightly different spellings), which can affect venue-level analysis.
