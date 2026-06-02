@@ -20,3 +20,18 @@ The goal is to practice core data analytics steps: understanding the data, summa
 
 ## Limitations
 - Some venue names are inconsistent (slightly different spellings), which can affect venue-level analysis.
+
+## Project Versions
+
+This analysis is implemented in two ways:
+
+1. **Google Sheets version**  
+   - File: `ipl_matches_analysis.xlsx` (pivot tables, charts, and Insights tab)  
+   - Best for understanding the logic without code.
+
+2. **Python (pandas) version**  
+   - Folder: `python-analysis/ipl_analysis_python.ipynb`  
+   - Uses pandas to reproduce the same insights:
+     - Top teams by match wins
+     - Matches per season
+     - Top players by Player of the Match awards
